@@ -1,4 +1,7 @@
 # Personal cash manager (Android)
+[![Build Status](https://travis-ci.org/technoboom/android-money-keeper.svg?branch=master)](https://travis-ci.org/technoboom/android-money-keeper)
+[![Issue Count](https://codeclimate.com/github/technoboom/android-money-keeper/badges/issue_count.svg)](https://codeclimate.com/github/technoboom/android-money-keeper)
+
 This application is in development stage.  
 Currently, you can use it as a bootstrap for your own project and
 pull some ideas from the project.  
