@@ -1,4 +1,4 @@
-# Personal money counting application (Android)
+# Personal cash manager (Android)
 This application is in development stage.  
 Currently, you can use it as a bootstrap for your own project and
 pull some ideas from the project.  
